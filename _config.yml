@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Chandler Johnson # the main title
 
-tagline: Exploring hacking, AppSec, faith, and more. # it will display as the subtitle
+tagline: Exploring hacking, AppSec, AI, faith, and more. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Join Chandler Johnson (chndlrx) as he explores topics such as hacking, AppSec, faith, and more.
+  Join Chandler Johnson (chndlrx) as he explores topics such as hacking, AppSec, AI, faith, and more.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
