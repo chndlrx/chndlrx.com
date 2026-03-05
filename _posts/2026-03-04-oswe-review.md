@@ -1,6 +1,6 @@
 ---
 title: "OffSec Web Expert (OSWE) Review"
-date: 2026-03-04 00:00:00 -0500
+date: 2026-03-04 17:00:00 -0500
 categories: [hacking]
 tags: [certification]
 image:
@@ -16,7 +16,7 @@ I came into OSWE as a working Penetration Tester with certifications including O
 ## Course Overview
 WEB-300 (Advanced Web Attacks and Exploitation) is OffSec's course for their OSWE certification. It's designed for experienced security professionals who want to develop deep white box web application testing skills. The course walks you through real-world case studies, each centered around a vulnerable application where you analyze source code, identify flaws, and develop working exploits.
 
-The course explores a broad range of security vulnerabilities, including injection attacks, deserialization flaws, CSRF, SSRF, insecure cryptography, session hijacking, WebSocket exploitation, and other common web application weaknesses. Students are expected to possess a solid foundational understanding of these topics prior to participation, as they will be required to apply this knowledge in advanced, multifaceted scenarios. These scenarios often involve navigating around filters, safeguards, and various defensive mechanisms. For more specific details on course material, view the [OffSec (Offensive Security) OSWE AWAE (Advanced Web Application Exploitation) WEB-300 Course Syllabus](https://www.offsec.com/documentation/awae-syllabus.pdf).
+The course explores a broad range of security vulnerabilities, including injection attacks, deserialization flaws, CSRF, SSRF, insecure cryptography, session hijacking, WebSocket exploitation, and other common web application weaknesses. Students are expected to possess a solid foundational understanding of these topics prior to participation, as they will be required to apply this knowledge in advanced, multifaceted scenarios. These scenarios often involve navigating around filters, safeguards, and various defensive mechanisms. For more specific details on course material, view the [AWAE Course Syllabus](https://www.offsec.com/documentation/awae-syllabus.pdf).
 
 
 ### What Makes It Different
